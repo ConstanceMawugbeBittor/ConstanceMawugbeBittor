@@ -1,0 +1,17 @@
+// Write a simple program to find the area of a circle.
+// Java program to calculate the area of the
+public  {
+	public static void main(String[] args)
+	{
+		int radius;
+		double pi = 3.142, area;
+		radius = 5;
+		// calculating the area of the circle
+		area = pi * radius * radius;
+		// printing the area of the circle
+		System.out.println("Area of circle is :" + area);
+	}
+}
+
+
+// Take pi to be 3.1428
